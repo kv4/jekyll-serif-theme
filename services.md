@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Услуги, которые растут вместе с вашим бизнесом
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Мы считаем, что каждый должен заниматься своим делом. Наше дело - избавить вас от забот об инфраструктуре, чтобы вы могли заниматься развитием своего бизнеса не отвлекаясь на технические детали.
