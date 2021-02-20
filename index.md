@@ -1,12 +1,12 @@
 ---
 title: Jekyll Serif Theme
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Делаем сайты под ключ для решения ваших бизнес задач. Ваш сайт будет быстрым, красивым и надёжным инструментом для бизнеса. 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Делаем <span style="color:#ea524d">быстрые</span> и <span style="color:#ea524d">красивые</span> <span style="color:#19c443">сайты</span>
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Мы создаем сайты, которые работают, действительно работают.
