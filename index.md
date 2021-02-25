@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Интегратор
 layout: home
 description: Делаем сайты под ключ для решения ваших бизнес задач. Ваш сайт будет быстрым, красивым и надёжным инструментом для бизнеса. 
 intro_image: "images/illustrations/pointing.svg"

@@ -5,15 +5,13 @@ main:
   - name: "Команда"
     url: "/team/"
     weight: 3
-  - name: "Про нас"
-    url: "/about/"
-    weight: 4
-  - name: "Контакты"
+#   Temporarily hid this item, because I don't know what to write on this page yet
+#  - name: "Про нас"
+#    url: "/about/"
+#    weight: 4
+  - name: "Связаться"
     url: "/contact/"
     weight: 5
-  - name: "План"
-    url: "/plan/"
-    weight: 6
 
 footer:
   - name: "Главная"
