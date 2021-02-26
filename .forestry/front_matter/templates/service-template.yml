@@ -25,5 +25,6 @@ fields:
     max: 
     step: 
 pages:
+- _services/integration.md
 - _services/support-old-sites.md
 - _services/website-development.md
