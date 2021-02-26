@@ -15,3 +15,5 @@ fields:
   label: Layout
   hidden: true
   default: service
+pages:
+- _services/website-development.md
