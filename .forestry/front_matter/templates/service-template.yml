@@ -16,4 +16,5 @@ fields:
   hidden: true
   default: service
 pages:
+- _services/support-old-sites.md
 - _services/website-development.md
