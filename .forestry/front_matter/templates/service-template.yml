@@ -14,5 +14,14 @@ fields:
   label: Layout
   hidden: true
   default: service
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: Content
 pages:
 - _services/тестовая-страница.md
