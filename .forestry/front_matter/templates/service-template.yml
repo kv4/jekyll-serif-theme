@@ -15,6 +15,15 @@ fields:
   label: Layout
   hidden: true
   default: service
+- name: weight
+  type: number
+  label: Weight
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - _services/support-old-sites.md
 - _services/website-development.md
